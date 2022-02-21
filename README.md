@@ -1,6 +1,7 @@
-### Hi there
-- 👋 Hello World! I'm Daniel Hakim.
-- Currently teaching myself web development.
-- Recently just finished Data Engineering Training.
-- That's all from me. Feel free to view all my projects, give constructive feedback or even propose a collaboration (Well, I hope so....).
+### Boring stuff that you might need to read:
+- My name is Daniel Hakim.
+- Currently teaching myself web development through The Odin Project online courses.
+- Recently just finished Data Engineering Training under CADS.
+- That's all from me. Feel free to view all my projects, give constructive feedback.
+
 
